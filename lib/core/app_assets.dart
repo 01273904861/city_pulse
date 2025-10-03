@@ -2,9 +2,17 @@
 class Assets {
   Assets._();
   
+  /// Assets for imagesBlueHeart
+  /// assets/images/blue_heart.png
+  static const String imagesBlueHeart = "assets/images/blue_heart.png";
+
   /// Assets for imagesBrainstorm
   /// assets/images/brainstorm.png
   static const String imagesBrainstorm = "assets/images/brainstorm.png";
+
+  /// Assets for imagesGreenHeart
+  /// assets/images/green_heart.png
+  static const String imagesGreenHeart = "assets/images/green_heart.png";
 
   /// Assets for imagesGroup
   /// assets/images/group.png
@@ -17,10 +25,6 @@ class Assets {
   /// Assets for imagesHeart12
   /// assets/images/heart12.png
   static const String imagesHeart12 = "assets/images/heart12.png";
-
-  /// Assets for imagesHeart13
-  /// assets/images/heart13.png
-  static const String imagesHeart13 = "assets/images/heart13.png";
 
   /// Assets for imagesHeart14
   /// assets/images/heart14.png
@@ -46,6 +50,14 @@ class Assets {
   /// assets/images/location_access.png
   static const String imagesLocationAccess = "assets/images/location_access.png";
 
+  /// Assets for imagesReadHeart
+  /// assets/images/read_heart.png
+  static const String imagesReadHeart = "assets/images/read_heart.png";
+
+  /// Assets for imagesRedHeart
+  /// assets/images/red_heart.png
+  static const String imagesRedHeart = "assets/images/red_heart.png";
+
   /// Assets for imagesTermometer
   /// assets/images/termometer.png
   static const String imagesTermometer = "assets/images/termometer.png";
@@ -53,5 +65,9 @@ class Assets {
   /// Assets for imagesWaterdrop
   /// assets/images/waterdrop.png
   static const String imagesWaterdrop = "assets/images/waterdrop.png";
+
+  /// Assets for imagesYellowHeart
+  /// assets/images/yellow_heart.png
+  static const String imagesYellowHeart = "assets/images/yellow_heart.png";
 }
 

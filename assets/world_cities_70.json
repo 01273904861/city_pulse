@@ -6,22 +6,22 @@
     "lat": 30.0444,
     "lng": 31.2357,
     "environment": {
-      "aqi": [23 , 24 , 24 , 25 ,26,22,25,30],
-      "temp": [11 , 24 , 12 , 20 , 12,10,12,30],
-      "humidity": 31,
-      "noiseLevel": 51
+      "aqi": [83, 60, 100, 73, 90, 70, 80, 93],
+      "temp": [38, 50, 63, 75, 88, 70, 55, 45],
+      "humidity": 55,
+      "noiseLevel": 78
     },
     "wellbeing": {
-      "moodScore": 61,
-      "socialVibe": "calm",
-      "connectivityScore": 61,
-      "stressLevel": "medium"
+      "moodScore": 60,
+      "socialVibe": "dynamic",
+      "connectivityScore": 65,
+      "stressLevel": "high"
     },
     "resources": {
       "water": "limited",
       "electricity": "unstable",
-      "greenSpaces": "moderate",
-      "healthcare": "advanced"
+      "greenSpaces": "few",
+      "healthcare": "developing"
     }
   },
   {
@@ -31,22 +31,22 @@
     "lat": 41.9028,
     "lng": 12.4964,
     "environment": {
-      "aqi": [26 , 27 , 27 , 28 ,29,25,28,31],
-      "temp":   [12 , 12 , 13 , 13 , 13,11,13,15],
-      "humidity": 32,
-      "noiseLevel": 52
+      "aqi": [30, 37, 23, 33, 27, 40, 25, 35],
+      "temp": [28, 32, 45, 63, 75, 55, 38, 30],
+      "humidity": 70,
+      "noiseLevel": 65
     },
     "wellbeing": {
-      "moodScore": 62,
-      "socialVibe": "busy",
-      "connectivityScore": 62,
-      "stressLevel": "high"
+      "moodScore": 75,
+      "socialVibe": "relaxed",
+      "connectivityScore": 78,
+      "stressLevel": "medium"
     },
     "resources": {
       "water": "stable",
       "electricity": "stable",
-      "greenSpaces": "many",
-      "healthcare": "developing"
+      "greenSpaces": "moderate",
+      "healthcare": "advanced"
     }
   },
   {
@@ -56,21 +56,21 @@
     "lat": 35.6895,
     "lng": 139.6917,
     "environment": {
-      "aqi": [29 , 30 , 30 , 31 ,32,28,31,34],
-      "temp":[  13 , 13 , 14 , 14 , 14,12,14,16],
-      "humidity": 33,
-      "noiseLevel": 53
+      "aqi": [20, 27, 33, 23, 30, 19, 28, 22],
+      "temp": [25, 30, 38, 63, 75, 50, 32, 27],
+      "humidity": 68,
+      "noiseLevel": 70
     },
     "wellbeing": {
-      "moodScore": 63,
-      "socialVibe": "relaxed",
-      "connectivityScore": 63,
-      "stressLevel": "low"
+      "moodScore": 78,
+      "socialVibe": "busy",
+      "connectivityScore": 95,
+      "stressLevel": "high"
     },
     "resources": {
       "water": "abundant",
-      "electricity": "unstable",
-      "greenSpaces": "few",
+      "electricity": "stable",
+      "greenSpaces": "moderate",
       "healthcare": "advanced"
     }
   },
@@ -81,21 +81,21 @@
     "lat": 28.6139,
     "lng": 77.209,
     "environment": {
-      "aqi":  [31 , 32 , 32 , 33 ,34,30,33,36],
-      "temp": [ 14 , 14 , 15 , 15 , 15,13,15,17],
-      "humidity": 34,
-      "noiseLevel": 54
+      "aqi": [57, 100, 51, 71, 100, 86, 63, 80],
+      "temp": [30, 38, 63, 88, 100, 75, 50, 32],
+      "humidity": 60,
+      "noiseLevel": 85
     },
     "wellbeing": {
-      "moodScore": 64,
+      "moodScore": 55,
       "socialVibe": "dynamic",
-      "connectivityScore": 64,
-      "stressLevel": "medium"
+      "connectivityScore": 58,
+      "stressLevel": "high"
     },
     "resources": {
       "water": "limited",
-      "electricity": "stable",
-      "greenSpaces": "moderate",
+      "electricity": "unstable",
+      "greenSpaces": "few",
       "healthcare": "developing"
     }
   },
@@ -106,21 +106,21 @@
     "lat": 35.6892,
     "lng": 51.389,
     "environment": {
-      "aqi": [35, 36 , 36 , 37 ,38,34,37,40],
-      "temp":[  15 , 15 , 16 , 16 , 16,14,16,18],
-      "humidity":35,
-      "noiseLevel": 55
+      "aqi": [67, 80, 53, 73, 63, 87, 57, 70],
+      "temp": [25, 38, 63, 88, 100, 75, 50, 30],
+      "humidity": 40,
+      "noiseLevel": 75
     },
     "wellbeing": {
-      "moodScore": 65,
+      "moodScore": 62,
       "socialVibe": "active",
-      "connectivityScore": 65,
+      "connectivityScore": 60,
       "stressLevel": "high"
     },
     "resources": {
-      "water": "stable",
+      "water": "limited",
       "electricity": "unstable",
-      "greenSpaces": "many",
+      "greenSpaces": "moderate",
       "healthcare": "advanced"
     }
   },
@@ -131,21 +131,21 @@
     "lat": 39.9208,
     "lng": 32.8541,
     "environment": {
-      "aqi": [32 , 33 , 33 , 34 ,35,31,34,37],
-      "temp": [ 16 , 16 , 17 , 17 , 17,15,17,19],
-      "humidity": 36,
-      "noiseLevel": 56
+      "aqi": [37, 43, 30, 47, 33, 40, 32, 41],
+      "temp": [20, 30, 50, 75, 88, 63, 38, 25],
+      "humidity": 60,
+      "noiseLevel": 68
     },
     "wellbeing": {
-      "moodScore": 66,
+      "moodScore": 70,
       "socialVibe": "calm",
-      "connectivityScore": 66,
-      "stressLevel": "low"
+      "connectivityScore": 70,
+      "stressLevel": "medium"
     },
     "resources": {
       "water": "abundant",
       "electricity": "stable",
-      "greenSpaces": "few",
+      "greenSpaces": "moderate",
       "healthcare": "developing"
     }
   },
@@ -156,21 +156,21 @@
     "lat": 48.8566,
     "lng": 2.3522,
     "environment": {
-      "aqi": [33 , 34 , 34 , 35 ,36,32,35,38],
-      "temp": [17 , 17 , 18 , 18 , 18,16,18,20],
-      "humidity": 37,
-      "noiseLevel": 57
+      "aqi": [20, 27, 33, 23, 30, 19, 28, 22],
+      "temp": [25, 30, 38, 50, 63, 45, 32, 27],
+      "humidity": 75,
+      "noiseLevel": 62
     },
     "wellbeing": {
-      "moodScore": 67,
+      "moodScore": 75,
       "socialVibe": "busy",
-      "connectivityScore": 67,
+      "connectivityScore": 85,
       "stressLevel": "medium"
     },
     "resources": {
-      "water": "limited",
-      "electricity": "unstable",
-      "greenSpaces": "moderate",
+      "water": "abundant",
+      "electricity": "stable",
+      "greenSpaces": "many",
       "healthcare": "advanced"
     }
   },
@@ -181,22 +181,22 @@
     "lat": 51.5074,
     "lng": -0.1278,
     "environment": {
-      "aqi": [ 34 , 35 , 35 , 36 ,37,33,36,39],
-      "temp": [18 , 18 , 19 , 19 , 19,17,19,21],
-      "humidity": 38,
-      "noiseLevel": 58
+      "aqi": [17, 23, 30, 20, 27, 15, 25, 19],
+      "temp": [23, 28, 32, 45, 55, 38, 30, 25],
+      "humidity": 80,
+      "noiseLevel": 60
     },
     "wellbeing": {
-      "moodScore": 68,
+      "moodScore": 72,
       "socialVibe": "relaxed",
-      "connectivityScore": 68,
-      "stressLevel": "high"
+      "connectivityScore": 80,
+      "stressLevel": "medium"
     },
     "resources": {
-      "water": "stable",
+      "water": "abundant",
       "electricity": "stable",
       "greenSpaces": "many",
-      "healthcare": "developing"
+      "healthcare": "advanced"
     }
   },
   {
@@ -206,35 +206,35 @@
     "lat": 55.7558,
     "lng": 37.6173,
     "environment": {
-      "aqi": [47, 48 , 48 , 49 ,50,46,49,52],
-      "temp": [  19 , 19 , 20 , 20 , 20,18,20,22],
-      "humidity": 39,
-      "noiseLevel": 59
+      "aqi": [27, 33, 40, 30, 37, 25, 35, 28],
+      "temp": [13, 20, 30, 50, 63, 38, 25, 17],
+      "humidity": 70,
+      "noiseLevel": 65
     },
     "wellbeing": {
-      "moodScore": 69,
+      "moodScore": 65,
       "socialVibe": "dynamic",
-      "connectivityScore": 69,
-      "stressLevel": "low"
+      "connectivityScore": 75,
+      "stressLevel": "medium"
     },
     "resources": {
       "water": "abundant",
-      "electricity": "unstable",
-      "greenSpaces": "few",
+      "electricity": "stable",
+      "greenSpaces": "moderate",
       "healthcare": "advanced"
     }
   },
   {
     "id": 10,
     "country": "Brazil",
-    "city": "Bras\u00edlia",
+    "city": "Brasília",
     "lat": -15.8267,
     "lng": -47.9218,
     "environment": {
-      "aqi": [51, 52 , 52 , 53 ,54,50,53,56],
-      "temp": [20, 20 , 21 , 21 , 21,19,21,23],
-      "humidity": 40,
-      "noiseLevel": 60
+      "aqi": [27, 33, 40, 30, 37, 25, 35, 28],
+      "temp": [45, 55, 63, 70, 75, 65, 50, 48],
+      "humidity": 65,
+      "noiseLevel": 65
     },
     "wellbeing": {
       "moodScore": 70,
@@ -243,9 +243,9 @@
       "stressLevel": "medium"
     },
     "resources": {
-      "water": "limited",
+      "water": "stable",
       "electricity": "stable",
-      "greenSpaces": "moderate",
+      "greenSpaces": "many",
       "healthcare": "developing"
     }
   },
@@ -256,20 +256,20 @@
     "lat": 38.8951,
     "lng": -77.0364,
     "environment": {
-      "aqi": [53, 54 , 54 , 55 ,56,52,55,58],
-      "temp": [  21 , 21 , 22 , 22 , 22,20,22,24],
-      "humidity": 41,
-      "noiseLevel": 61
+      "aqi": [27, 37, 43, 33, 40, 30, 39, 32],
+      "temp": [20, 25, 38, 63, 75, 50, 30, 23],
+      "humidity": 68,
+      "noiseLevel": 68
     },
     "wellbeing": {
-      "moodScore": 71,
+      "moodScore": 72,
       "socialVibe": "calm",
-      "connectivityScore": 71,
-      "stressLevel": "high"
+      "connectivityScore": 80,
+      "stressLevel": "medium"
     },
     "resources": {
-      "water": "stable",
-      "electricity": "unstable",
+      "water": "abundant",
+      "electricity": "stable",
       "greenSpaces": "many",
       "healthcare": "advanced"
     }
@@ -281,22 +281,22 @@
     "lat": 45.4215,
     "lng": -75.6972,
     "environment": {
-      "aqi":[  54 , 55 , 55 , 56 ,57,53,56,59],
-      "temp": [  22 , 22 , 23 , 23 , 23,21,23,25],
-      "humidity": 42,
-      "noiseLevel": 62
+      "aqi": [20, 27, 33, 23, 30, 19, 28, 22],
+      "temp": [10, 17, 25, 38, 63, 50, 30, 20],
+      "humidity": 70,
+      "noiseLevel": 58
     },
     "wellbeing": {
-      "moodScore": 72,
+      "moodScore": 75,
       "socialVibe": "busy",
-      "connectivityScore": 72,
+      "connectivityScore": 85,
       "stressLevel": "low"
     },
     "resources": {
       "water": "abundant",
       "electricity": "stable",
-      "greenSpaces": "few",
-      "healthcare": "developing"
+      "greenSpaces": "moderate",
+      "healthcare": "advanced"
     }
   },
   {
@@ -306,21 +306,21 @@
     "lat": 52.52,
     "lng": 13.405,
     "environment": {
-      "aqi": [  55 , 56 , 56 , 57 ,58,54,57,60],
-      "temp": [  23 , 23 , 24 , 24 , 24,22,24,26],
-      "humidity": 43,
-      "noiseLevel": 63
+      "aqi": [23, 30, 37, 27, 33, 22, 32, 25],
+      "temp": [20, 25, 30, 45, 63, 38, 28, 23],
+      "humidity": 72,
+      "noiseLevel": 60
     },
     "wellbeing": {
-      "moodScore": 73,
+      "moodScore": 70,
       "socialVibe": "relaxed",
-      "connectivityScore": 73,
-      "stressLevel": "medium"
+      "connectivityScore": 82,
+      "stressLevel": "low"
     },
     "resources": {
-      "water": "limited",
-      "electricity": "unstable",
-      "greenSpaces": "moderate",
+      "water": "abundant",
+      "electricity": "stable",
+      "greenSpaces": "many",
       "healthcare": "advanced"
     }
   },
@@ -331,22 +331,22 @@
     "lat": 40.4168,
     "lng": -3.7038,
     "environment": {
-      "aqi": [62, 63 , 63 , 64 ,65,61,64,67],
-      "temp": [  24 , 24 , 25 , 25 , 25,23,25,27],
-      "humidity": 44,
-      "noiseLevel": 64
+      "aqi": [30, 37, 43, 33, 40, 29, 39, 32],
+      "temp": [25, 30, 38, 63, 88, 75, 50, 32],
+      "humidity": 55,
+      "noiseLevel": 68
     },
     "wellbeing": {
-      "moodScore": 74,
+      "moodScore": 78,
       "socialVibe": "dynamic",
-      "connectivityScore": 74,
-      "stressLevel": "high"
+      "connectivityScore": 75,
+      "stressLevel": "medium"
     },
     "resources": {
-      "water": "stable",
+      "water": "limited",
       "electricity": "stable",
-      "greenSpaces": "many",
-      "healthcare": "developing"
+      "greenSpaces": "moderate",
+      "healthcare": "advanced"
     }
   },
   {
@@ -356,22 +356,22 @@
     "lat": 19.4326,
     "lng": -99.1332,
     "environment": {
-      "aqi": [65, 66 , 66 , 67 ,68,64,67,70],
-      "temp": [  25 , 25 , 26 , 26 , 26,24,26,28],
-      "humidity": 45,
-      "noiseLevel": 65
+      "aqi": [67, 87, 60, 73, 80, 63, 77, 70],
+      "temp": [32, 38, 50, 63, 70, 55, 45, 35],
+      "humidity": 65,
+      "noiseLevel": 75
     },
     "wellbeing": {
-      "moodScore": 75,
+      "moodScore": 65,
       "socialVibe": "active",
-      "connectivityScore": 75,
-      "stressLevel": "low"
+      "connectivityScore": 68,
+      "stressLevel": "high"
     },
     "resources": {
-      "water": "abundant",
+      "water": "limited",
       "electricity": "unstable",
-      "greenSpaces": "few",
-      "healthcare": "advanced"
+      "greenSpaces": "moderate",
+      "healthcare": "developing"
     }
   },
   {
@@ -381,22 +381,22 @@
     "lat": -34.6037,
     "lng": -58.3816,
     "environment": {
-      "aqi": [68, 69 , 69 , 70 ,71,67,70,73],
-      "temp": [  26 , 26 , 27 , 27 , 27,25,27,29],
-      "humidity": 46,
-      "noiseLevel": 66
+      "aqi": [27, 33, 40, 30, 37, 25, 35, 28],
+      "temp": [30, 38, 50, 63, 75, 55, 45, 32],
+      "humidity": 70,
+      "noiseLevel": 60
     },
     "wellbeing": {
-      "moodScore": 76,
+      "moodScore": 72,
       "socialVibe": "calm",
-      "connectivityScore": 76,
-      "stressLevel": "medium"
+      "connectivityScore": 70,
+      "stressLevel": "low"
     },
     "resources": {
-      "water": "limited",
+      "water": "abundant",
       "electricity": "stable",
-      "greenSpaces": "moderate",
-      "healthcare": "developing"
+      "greenSpaces": "many",
+      "healthcare": "advanced"
     }
   },
   {
@@ -406,22 +406,22 @@
     "lat": -25.7479,
     "lng": 28.2293,
     "environment": {
-      "aqi": [71, 72 , 72 , 73 ,74,70,73,76],
-      "temp": [  27 , 27 , 28 , 28 , 28,26,28,30],
-      "humidity": 47,
-      "noiseLevel": 67
+      "aqi": [40, 47, 53, 43, 50, 39, 48, 41],
+      "temp": [38, 50, 63, 75, 88, 70, 55, 45],
+      "humidity": 50,
+      "noiseLevel": 65
     },
     "wellbeing": {
-      "moodScore": 77,
+      "moodScore": 68,
       "socialVibe": "busy",
-      "connectivityScore": 77,
-      "stressLevel": "high"
+      "connectivityScore": 65,
+      "stressLevel": "medium"
     },
     "resources": {
-      "water": "stable",
+      "water": "limited",
       "electricity": "unstable",
-      "greenSpaces": "many",
-      "healthcare": "advanced"
+      "greenSpaces": "moderate",
+      "healthcare": "developing"
     }
   },
   {
@@ -431,21 +431,21 @@
     "lat": -1.2921,
     "lng": 36.8219,
     "environment": {
-      "aqi": [74, 75 , 75 , 76 ,77,73,76,79],
-      "temp": [  28 , 28 , 29 , 29 , 29,27,29,31],
-      "humidity": 48,
-      "noiseLevel": 68
+      "aqi": [53, 60, 67, 57, 63, 52, 61, 55],
+      "temp": [32, 38, 45, 55, 63, 50, 41, 35],
+      "humidity": 65,
+      "noiseLevel": 70
     },
     "wellbeing": {
-      "moodScore": 78,
+      "moodScore": 65,
       "socialVibe": "relaxed",
-      "connectivityScore": 78,
-      "stressLevel": "low"
+      "connectivityScore": 60,
+      "stressLevel": "medium"
     },
     "resources": {
-      "water": "abundant",
-      "electricity": "stable",
-      "greenSpaces": "few",
+      "water": "limited",
+      "electricity": "unstable",
+      "greenSpaces": "moderate",
       "healthcare": "developing"
     }
   },
@@ -456,22 +456,22 @@
     "lat": 9.0579,
     "lng": 7.4951,
     "environment": {
-      "aqi": [77, 78 , 78 , 79 ,80,76,79,82],
-      "temp": [  29 , 29 , 30 , 30 , 30,28,30,32],
-      "humidity": 49,
-      "noiseLevel": 69
+      "aqi": [67, 80, 93, 73, 87, 70, 83, 77],
+      "temp": [63, 75, 88, 100, 95, 80, 70, 65],
+      "humidity": 60,
+      "noiseLevel": 78
     },
     "wellbeing": {
-      "moodScore": 79,
+      "moodScore": 60,
       "socialVibe": "dynamic",
-      "connectivityScore": 79,
-      "stressLevel": "medium"
+      "connectivityScore": 55,
+      "stressLevel": "high"
     },
     "resources": {
       "water": "limited",
       "electricity": "unstable",
-      "greenSpaces": "moderate",
-      "healthcare": "advanced"
+      "greenSpaces": "few",
+      "healthcare": "developing"
     }
   },
   {
@@ -481,22 +481,22 @@
     "lat": 24.7136,
     "lng": 46.6753,
     "environment": {
-      "aqi": [80, 81 , 81 , 82 ,83,79,82,85],
-      "temp": [  30 , 30 , 31 , 31 , 31,29,31,33],
-      "humidity": 50,
+      "aqi": [47, 53, 60, 50, 57, 45, 55, 48],
+      "temp": [38, 63, 88, 100, 95, 75, 50, 45],
+      "humidity": 30,
       "noiseLevel": 70
     },
     "wellbeing": {
-      "moodScore": 80,
+      "moodScore": 75,
       "socialVibe": "active",
-      "connectivityScore": 80,
-      "stressLevel": "high"
+      "connectivityScore": 75,
+      "stressLevel": "medium"
     },
     "resources": {
-      "water": "stable",
+      "water": "limited",
       "electricity": "stable",
-      "greenSpaces": "many",
-      "healthcare": "developing"
+      "greenSpaces": "few",
+      "healthcare": "advanced"
     }
   },
   {
@@ -506,20 +506,20 @@
     "lat": 24.4539,
     "lng": 54.3773,
     "environment": {
-      "aqi": [83, 84 , 84 , 85 ,86,82,85,88],
-      "temp": [  31 , 31 , 32 , 32 , 32,30,32,34],
-      "humidity": 51,
-      "noiseLevel": 71
+      "aqi": [40, 47, 53, 43, 50, 39, 48, 41],
+      "temp": [50, 75, 100, 100, 95, 88, 63, 55],
+      "humidity": 60,
+      "noiseLevel": 68
     },
     "wellbeing": {
-      "moodScore": 81,
+      "moodScore": 78,
       "socialVibe": "calm",
-      "connectivityScore": 81,
+      "connectivityScore": 80,
       "stressLevel": "low"
     },
     "resources": {
-      "water": "abundant",
-      "electricity": "unstable",
+      "water": "limited",
+      "electricity": "stable",
       "greenSpaces": "few",
       "healthcare": "advanced"
     }
@@ -531,22 +531,22 @@
     "lat": 25.276987,
     "lng": 51.520008,
     "environment": {
-      "aqi": [86, 87 , 87 , 88 ,89,85,88,91],
-      "temp": [  32 , 32 , 33 , 33 , 33,31,33,35],
-      "humidity": 52,
-      "noiseLevel": 72
+      "aqi": [43, 50, 57, 47, 53, 42, 52, 45],
+      "temp": [50, 75, 100, 100, 95, 88, 63, 55],
+      "humidity": 60,
+      "noiseLevel": 70
     },
     "wellbeing": {
-      "moodScore": 82,
+      "moodScore": 75,
       "socialVibe": "busy",
-      "connectivityScore": 82,
+      "connectivityScore": 78,
       "stressLevel": "medium"
     },
     "resources": {
       "water": "limited",
       "electricity": "stable",
-      "greenSpaces": "moderate",
-      "healthcare": "developing"
+      "greenSpaces": "few",
+      "healthcare": "advanced"
     }
   },
   {
@@ -556,21 +556,21 @@
     "lat": 39.9042,
     "lng": 116.4074,
     "environment": {
-      "aqi": [89, 90 , 90 , 91 ,92,88,91,94],
-      "temp": [  33 , 33 , 34 , 34 , 34,32,34,36],
-      "humidity": 53,
-      "noiseLevel": 73
+      "aqi": [67, 100, 100, 80, 100, 73, 93, 87],
+      "temp": [17, 25, 38, 63, 75, 50, 30, 20],
+      "humidity": 60,
+      "noiseLevel": 75
     },
     "wellbeing": {
-      "moodScore": 83,
-      "socialVibe": "relaxed",
-      "connectivityScore": 83,
+      "moodScore": 65,
+      "socialVibe": "dynamic",
+      "connectivityScore": 75,
       "stressLevel": "high"
     },
     "resources": {
-      "water": "stable",
-      "electricity": "unstable",
-      "greenSpaces": "many",
+      "water": "limited",
+      "electricity": "stable",
+      "greenSpaces": "moderate",
       "healthcare": "advanced"
     }
   },
@@ -581,22 +581,22 @@
     "lat": 37.5665,
     "lng": 126.978,
     "environment": {
-      "aqi": [92, 93 , 93 , 94 ,95,91,94,97],
-      "temp": [  34 , 34 , 35 , 35 , 35,33,35,37],
-      "humidity": 54,
-      "noiseLevel": 74
+      "aqi": [40, 53, 67, 47, 60, 43, 57, 50],
+      "temp": [17, 25, 38, 63, 75, 50, 30, 20],
+      "humidity": 70,
+      "noiseLevel": 70
     },
     "wellbeing": {
-      "moodScore": 84,
+      "moodScore": 72,
       "socialVibe": "dynamic",
-      "connectivityScore": 84,
-      "stressLevel": "low"
+      "connectivityScore": 90,
+      "stressLevel": "high"
     },
     "resources": {
       "water": "abundant",
       "electricity": "stable",
-      "greenSpaces": "few",
-      "healthcare": "developing"
+      "greenSpaces": "moderate",
+      "healthcare": "advanced"
     }
   },
   {
@@ -606,21 +606,21 @@
     "lat": -35.2809,
     "lng": 149.13,
     "environment": {
-      "aqi": [95, 96 , 96 , 97 ,98,94,97,100],
-      "temp": [  35 , 35 , 36 , 36 , 36,34,36,38],
-      "humidity": 55,
-      "noiseLevel": 75
+      "aqi": [13, 20, 27, 17, 23, 12, 21, 15],
+      "temp": [25, 30, 38, 63, 75, 50, 32, 27],
+      "humidity": 60,
+      "noiseLevel": 55
     },
     "wellbeing": {
       "moodScore": 85,
       "socialVibe": "active",
       "connectivityScore": 85,
-      "stressLevel": "medium"
+      "stressLevel": "low"
     },
     "resources": {
       "water": "limited",
-      "electricity": "unstable",
-      "greenSpaces": "moderate",
+      "electricity": "stable",
+      "greenSpaces": "many",
       "healthcare": "advanced"
     }
   },
@@ -631,22 +631,22 @@
     "lat": -41.2866,
     "lng": 174.7756,
     "environment": {
-      "aqi": [98, 99 , 99 , 100 ,99,97,100,95],
-      "temp": [  36 , 36 , 37 , 37 , 37,35,37,39],
-      "humidity": 56,
-      "noiseLevel": 76
+      "aqi": [10, 17, 23, 13, 20, 8, 19, 12],
+      "temp": [28, 32, 41, 50, 63, 45, 35, 30],
+      "humidity": 80,
+      "noiseLevel": 50
     },
     "wellbeing": {
-      "moodScore": 86,
+      "moodScore": 88,
       "socialVibe": "calm",
-      "connectivityScore": 86,
-      "stressLevel": "high"
+      "connectivityScore": 88,
+      "stressLevel": "low"
     },
     "resources": {
-      "water": "stable",
+      "water": "abundant",
       "electricity": "stable",
       "greenSpaces": "many",
-      "healthcare": "developing"
+      "healthcare": "advanced"
     }
   },
   {
@@ -656,21 +656,21 @@
     "lat": 59.9139,
     "lng": 10.7522,
     "environment": {
-      "aqi": [99, 55 , 75 , 75 ,95,100,99,91],
-      "temp": [  37 , 37 , 38 , 38 , 38,36,38,40],
-      "humidity": 57,
-      "noiseLevel": 77
+      "aqi": [13, 20, 27, 17, 23, 12, 21, 15],
+      "temp": [13, 20, 30, 50, 63, 38, 25, 17],
+      "humidity": 75,
+      "noiseLevel": 55
     },
     "wellbeing": {
-      "moodScore": 87,
+      "moodScore": 80,
       "socialVibe": "busy",
-      "connectivityScore": 87,
+      "connectivityScore": 95,
       "stressLevel": "low"
     },
     "resources": {
       "water": "abundant",
-      "electricity": "unstable",
-      "greenSpaces": "few",
+      "electricity": "stable",
+      "greenSpaces": "many",
       "healthcare": "advanced"
     }
   },
@@ -681,22 +681,22 @@
     "lat": 59.3293,
     "lng": 18.0686,
     "environment": {
-      "aqi": [100, 99 , 95 , 94 ,98,99,92,91],
-      "temp":  [  38 , 38 , 39 , 39 , 39,37,39,41],
-      "humidity": 58,
-      "noiseLevel": 78
+      "aqi": [13, 20, 27, 17, 23, 12, 21, 15],
+      "temp": [13, 20, 30, 50, 63, 38, 25, 17],
+      "humidity": 75,
+      "noiseLevel": 55
     },
     "wellbeing": {
-      "moodScore": 88,
+      "moodScore": 82,
       "socialVibe": "relaxed",
-      "connectivityScore": 88,
-      "stressLevel": "medium"
+      "connectivityScore": 92,
+      "stressLevel": "low"
     },
     "resources": {
-      "water": "limited",
+      "water": "abundant",
       "electricity": "stable",
-      "greenSpaces": "moderate",
-      "healthcare": "developing"
+      "greenSpaces": "many",
+      "healthcare": "advanced"
     }
   },
   {
@@ -706,20 +706,20 @@
     "lat": 60.1699,
     "lng": 24.9384,
     "environment": {
-      "aqi": [99, 94, 95 , 96 ,97,98,93,92],
-      "temp": [  39 , 39 , 40 , 40 , 40,38,40,42],
-      "humidity": 59,
-      "noiseLevel": 79
+      "aqi": [13, 20, 27, 17, 23, 12, 21, 15],
+      "temp": [10, 17, 25, 38, 63, 30, 20, 13],
+      "humidity": 80,
+      "noiseLevel": 50
     },
     "wellbeing": {
-      "moodScore": 89,
-      "socialVibe": "dynamic",
-      "connectivityScore": 89,
-      "stressLevel": "high"
+      "moodScore": 85,
+      "socialVibe": "calm",
+      "connectivityScore": 90,
+      "stressLevel": "low"
     },
     "resources": {
-      "water": "stable",
-      "electricity": "unstable",
+      "water": "abundant",
+      "electricity": "stable",
       "greenSpaces": "many",
       "healthcare": "advanced"
     }
@@ -731,25 +731,24 @@
     "lat": 55.6761,
     "lng": 12.5683,
     "environment": {
-      "aqi": [68,74, 75 , 76 ,77,73,76,79],
-      "temp": [  40 , 40 , 41 , 41 , 41,39,41,43],
-      "humidity": 60,
-      "noiseLevel": 80
+      "aqi": [17, 23, 30, 20, 27, 15, 25, 19],
+      "temp": [20, 25, 30, 45, 55, 38, 28, 23],
+      "humidity": 78,
+      "noiseLevel": 58
     },
     "wellbeing": {
-      "moodScore": 90,
+      "moodScore": 80,
       "socialVibe": "active",
-      "connectivityScore": 90,
+      "connectivityScore": 88,
       "stressLevel": "low"
     },
     "resources": {
       "water": "abundant",
       "electricity": "stable",
-      "greenSpaces": "few",
-      "healthcare": "developing"
+      "greenSpaces": "many",
+      "healthcare": "advanced"
     }
-  }
-  ,
+  },
   {
     "id": 31,
     "country": "Mexico",
@@ -757,22 +756,22 @@
     "lat": 19.4326,
     "lng": -99.1332,
     "environment": {
-      "aqi": [66, 67 , 67 , 68 ,69,65,68,71],
-      "temp": [  41 , 41 , 42 , 42 , 42,40,42,44],
-      "humidity": 61,
-      "noiseLevel": 81
+      "aqi": [67, 87, 60, 73, 80, 63, 77, 70],
+      "temp": [32, 38, 50, 63, 70, 55, 45, 35],
+      "humidity": 65,
+      "noiseLevel": 75
     },
     "wellbeing": {
-      "moodScore": 91,
+      "moodScore": 65,
       "socialVibe": "calm",
-      "connectivityScore": 91,
-      "stressLevel": "medium"
+      "connectivityScore": 68,
+      "stressLevel": "high"
     },
     "resources": {
       "water": "limited",
       "electricity": "unstable",
       "greenSpaces": "moderate",
-      "healthcare": "advanced"
+      "healthcare": "developing"
     }
   },
   {
@@ -782,22 +781,22 @@
     "lat": 43.6511,
     "lng": -79.347015,
     "environment": {
-      "aqi": [88,66,74 , 75 ,76,72,75,78],
-      "temp": [  42 , 42 , 43 , 43 , 43,41,43,45],
-      "humidity": 62,
-      "noiseLevel": 82
+      "aqi": [23, 30, 37, 27, 33, 22, 32, 25],
+      "temp": [13, 20, 30, 50, 63, 38, 25, 17],
+      "humidity": 70,
+      "noiseLevel": 65
     },
     "wellbeing": {
-      "moodScore": 92,
+      "moodScore": 75,
       "socialVibe": "busy",
-      "connectivityScore": 92,
-      "stressLevel": "low"
+      "connectivityScore": 85,
+      "stressLevel": "medium"
     },
     "resources": {
       "water": "abundant",
       "electricity": "stable",
       "greenSpaces": "many",
-      "healthcare": "developing"
+      "healthcare": "advanced"
     }
   },
   {
@@ -807,20 +806,20 @@
     "lat": 40.7128,
     "lng": -74.006,
     "environment": {
-      "aqi": [88,99,95, 96 ,97,93,96,99],
-      "temp": [  43 , 43 , 44 , 44 , 44,42,44,46],
-      "humidity": 63,
-      "noiseLevel": 83
+      "aqi": [33, 40, 47, 37, 43, 32, 41, 35],
+      "temp": [17, 25, 38, 63, 75, 50, 30, 23],
+      "humidity": 65,
+      "noiseLevel": 78
     },
     "wellbeing": {
-      "moodScore": 93,
+      "moodScore": 68,
       "socialVibe": "dynamic",
-      "connectivityScore": 93,
+      "connectivityScore": 90,
       "stressLevel": "high"
     },
     "resources": {
-      "water": "stable",
-      "electricity": "unstable",
+      "water": "abundant",
+      "electricity": "stable",
       "greenSpaces": "few",
       "healthcare": "advanced"
     }
@@ -832,22 +831,22 @@
     "lat": 34.0522,
     "lng": -118.2437,
     "environment": {
-      "aqi": [99, 94, 95 , 96 ,97,98,93,92],
-      "temp": [  44 , 44 , 45 , 45 , 45,43,45,47],
-      "humidity": 64,
-      "noiseLevel": 84
+      "aqi": [40, 47, 53, 43, 50, 39, 48, 41],
+      "temp": [30, 38, 50, 63, 75, 55, 45, 32],
+      "humidity": 60,
+      "noiseLevel": 70
     },
     "wellbeing": {
-      "moodScore": 94,
+      "moodScore": 78,
       "socialVibe": "relaxed",
-      "connectivityScore": 94,
+      "connectivityScore": 88,
       "stressLevel": "medium"
     },
     "resources": {
       "water": "limited",
       "electricity": "stable",
       "greenSpaces": "moderate",
-      "healthcare": "developing"
+      "healthcare": "advanced"
     }
   },
   {
@@ -857,20 +856,20 @@
     "lat": 41.8781,
     "lng": -87.6298,
     "environment": {
-      "aqi": [88, 89 , 89 , 90 ,91,87,90,93],
-      "temp": [  45 , 45 , 46 , 46 , 46,44,46,48],
-      "humidity": 65,
-      "noiseLevel": 85
+      "aqi": [27, 33, 40, 30, 37, 25, 35, 28],
+      "temp": [13, 20, 30, 50, 63, 38, 25, 17],
+      "humidity": 68,
+      "noiseLevel": 65
     },
     "wellbeing": {
-      "moodScore": 95,
+      "moodScore": 72,
       "socialVibe": "calm",
-      "connectivityScore": 95,
-      "stressLevel": "low"
+      "connectivityScore": 85,
+      "stressLevel": "medium"
     },
     "resources": {
       "water": "abundant",
-      "electricity": "unstable",
+      "electricity": "stable",
       "greenSpaces": "many",
       "healthcare": "advanced"
     }
@@ -882,22 +881,22 @@
     "lat": 34.6937,
     "lng": 135.5023,
     "environment": {
-      "aqi": [45,41,55,66,77,88,99,100],
-      "temp": [  46 , 46 , 47 , 47 , 47,45,47,49],
-      "humidity": 66,
-      "noiseLevel": 86
+      "aqi": [20, 27, 33, 23, 30, 19, 28, 22],
+      "temp": [25, 30, 38, 63, 75, 50, 32, 27],
+      "humidity": 70,
+      "noiseLevel": 68
     },
     "wellbeing": {
-      "moodScore": 96,
+      "moodScore": 75,
       "socialVibe": "active",
-      "connectivityScore": 96,
+      "connectivityScore": 90,
       "stressLevel": "medium"
     },
     "resources": {
-      "water": "stable",
+      "water": "abundant",
       "electricity": "stable",
-      "greenSpaces": "few",
-      "healthcare": "developing"
+      "greenSpaces": "moderate",
+      "healthcare": "advanced"
     }
   },
   {
@@ -907,20 +906,20 @@
     "lat": 35.0116,
     "lng": 135.7681,
     "environment": {
-      "aqi": [99, 94, 95 , 96 ,97,98,93,92],
-      "temp": [  47 , 47 , 48 , 48 , 48,46,48,50],
-      "humidity": 67,
-      "noiseLevel": 87
+      "aqi": [17, 23, 30, 20, 27, 15, 25, 19],
+      "temp": [25, 30, 38, 63, 75, 50, 32, 27],
+      "humidity": 65,
+      "noiseLevel": 60
     },
     "wellbeing": {
-      "moodScore": 97,
+      "moodScore": 80,
       "socialVibe": "relaxed",
-      "connectivityScore": 97,
+      "connectivityScore": 85,
       "stressLevel": "low"
     },
     "resources": {
       "water": "abundant",
-      "electricity": "unstable",
+      "electricity": "stable",
       "greenSpaces": "many",
       "healthcare": "advanced"
     }
@@ -932,22 +931,22 @@
     "lat": 35.1796,
     "lng": 129.0756,
     "environment": {
-      "aqi": [99, 94, 95 , 96 ,97,98,93,92],
-      "temp": [  48 , 48 , 49 , 49 , 49,47,49,51],
-      "humidity": 68,
-      "noiseLevel": 88
+      "aqi": [33, 40, 47, 37, 43, 32, 41, 35],
+      "temp": [25, 30, 38, 63, 75, 50, 32, 27],
+      "humidity": 75,
+      "noiseLevel": 65
     },
     "wellbeing": {
-      "moodScore": 98,
+      "moodScore": 75,
       "socialVibe": "dynamic",
-      "connectivityScore": 98,
+      "connectivityScore": 88,
       "stressLevel": "medium"
     },
     "resources": {
-      "water": "stable",
+      "water": "abundant",
       "electricity": "stable",
       "greenSpaces": "moderate",
-      "healthcare": "developing"
+      "healthcare": "advanced"
     }
   },
   {
@@ -957,20 +956,20 @@
     "lat": 31.2304,
     "lng": 121.4737,
     "environment": {
-      "aqi": [88,44,55,66,77,88,99,100],
-      "temp": [  49 , 49 , 50 , 50 , 50,48,50,52],
-      "humidity": 69,
-      "noiseLevel": 89
+      "aqi": [53, 67, 80, 60, 73, 50, 70, 63],
+      "temp": [20, 30, 50, 75, 88, 63, 38, 25],
+      "humidity": 70,
+      "noiseLevel": 75
     },
     "wellbeing": {
-      "moodScore": 99,
+      "moodScore": 70,
       "socialVibe": "busy",
-      "connectivityScore": 99,
+      "connectivityScore": 80,
       "stressLevel": "high"
     },
     "resources": {
-      "water": "limited",
-      "electricity": "unstable",
+      "water": "abundant",
+      "electricity": "stable",
       "greenSpaces": "few",
       "healthcare": "advanced"
     }
@@ -982,22 +981,22 @@
     "lat": 23.1291,
     "lng": 113.2644,
     "environment": {
-      "aqi": [88,44,55,66,77,88,99,100],
-      "temp": [  50 , 50 , 51 , 51 , 51,49,51,53],
-      "humidity": 70,
-      "noiseLevel": 90
+      "aqi": [47, 60, 73, 53, 67, 43, 63, 57],
+      "temp": [30, 38, 63, 88, 95, 75, 50, 32],
+      "humidity": 80,
+      "noiseLevel": 78
     },
     "wellbeing": {
-      "moodScore": 100,
-      "socialVibe": "calm",
-      "connectivityScore": 100,
-      "stressLevel": "low"
+      "moodScore": 68,
+      "socialVibe": "dynamic",
+      "connectivityScore": 78,
+      "stressLevel": "high"
     },
     "resources": {
       "water": "abundant",
       "electricity": "stable",
-      "greenSpaces": "many",
-      "healthcare": "developing"
+      "greenSpaces": "few",
+      "healthcare": "advanced"
     }
   },
   {
@@ -1007,21 +1006,21 @@
     "lat": 49.2827,
     "lng": -123.1207,
     "environment": {
-      "aqi": [99,88,44,33,55,66,77,88],
-      "temp": [  51 , 51 , 52 , 52 , 52,50,52,54],
-      "humidity": 71,
-      "noiseLevel": 91
+      "aqi": [13, 20, 27, 17, 23, 12, 21, 15],
+      "temp": [20, 25, 30, 45, 55, 38, 28, 23],
+      "humidity": 75,
+      "noiseLevel": 55
     },
     "wellbeing": {
-      "moodScore": 101,
+      "moodScore": 85,
       "socialVibe": "active",
-      "connectivityScore": 101,
-      "stressLevel": "medium"
+      "connectivityScore": 90,
+      "stressLevel": "low"
     },
     "resources": {
-      "water": "stable",
-      "electricity": "unstable",
-      "greenSpaces": "moderate",
+      "water": "abundant",
+      "electricity": "stable",
+      "greenSpaces": "many",
       "healthcare": "advanced"
     }
   },
@@ -1032,22 +1031,22 @@
     "lat": 37.7749,
     "lng": -122.4194,
     "environment": {
-      "aqi": [88,44,55,66,77,88,99,100],
-      "temp": [  52 , 52 , 53 , 53 , 53,51,53,55],
-      "humidity": 72,
-      "noiseLevel": 92
+      "aqi": [17, 23, 30, 20, 27, 15, 25, 19],
+      "temp": [28, 32, 38, 50, 63, 45, 35, 30],
+      "humidity": 70,
+      "noiseLevel": 60
     },
     "wellbeing": {
-      "moodScore": 102,
+      "moodScore": 82,
       "socialVibe": "relaxed",
-      "connectivityScore": 102,
+      "connectivityScore": 92,
       "stressLevel": "low"
     },
     "resources": {
       "water": "limited",
       "electricity": "stable",
-      "greenSpaces": "few",
-      "healthcare": "developing"
+      "greenSpaces": "moderate",
+      "healthcare": "advanced"
     }
   },
   {
@@ -1057,23 +1056,22 @@
     "lat": 47.6062,
     "lng": -122.3321,
     "environment": {
-      "aqi": [88,44,66,45,55,66,77,88],
-      "temp": [  53 , 53 , 54 , 54 , 54,52,54,56],
-      "humidity": 73,
-      "noiseLevel": 93
+      "aqi": [13, 20, 27, 17, 23, 12, 21, 15],
+      "temp": [25, 30, 38, 50, 63, 45, 32, 27],
+      "humidity": 75,
+      "noiseLevel": 58
     },
     "wellbeing": {
-      "moodScore": 103,
+      "moodScore": 80,
       "socialVibe": "busy",
-      "connectivityScore": 103,
-      "stressLevel": "high"
+      "connectivityScore": 90,
+      "stressLevel": "medium"
     },
     "resources": {
       "water": "abundant",
-      "electricity": "unstable",
+      "electricity": "stable",
       "greenSpaces": "many",
       "healthcare": "advanced"
     }
   }
-    
 ]

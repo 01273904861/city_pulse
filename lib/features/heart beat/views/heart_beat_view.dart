@@ -1,5 +1,6 @@
 import 'package:city_pulse/core/app_assets.dart';
 import 'package:city_pulse/core/consts/app_colors.dart';
+import 'package:city_pulse/core/functions/get_heart_color.dart';
 import 'package:city_pulse/core/routing/routes.dart';
 import 'package:city_pulse/features/heart%20beat/models/gridview_card_model.dart';
 import 'package:city_pulse/features/heart%20beat/widgets/grid_view_card.dart';
@@ -34,7 +35,7 @@ class HeartBeatView extends StatelessWidget {
             style: TextStyle(fontSize: 12, color: Colors.grey),
           ),
           SizedBox(width: 5),
-          Icon(Icons.error, color: Colors.grey, size: 20),
+          Icon(Icons.calendar_month, color: Colors.grey, size: 20),
           SizedBox(width: 10),
         ],
       ),
@@ -47,7 +48,10 @@ class HeartBeatView extends StatelessWidget {
                 SizedBox(
                   height: 300,
                   width: 350,
-                  child: Image.asset(Assets.imagesHeart, fit: BoxFit.cover),
+                  child: Image.asset(
+                    getHeartColor(countryDataModel),
+                    fit: BoxFit.cover,
+                  ),
                 ),
                 SizedBox(height: 5),
                 Text(
@@ -61,7 +65,7 @@ class HeartBeatView extends StatelessWidget {
                   child: GridView(
                     gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
                       crossAxisCount: 2,
-                      childAspectRatio: 2.5,
+                      childAspectRatio: 7 / 3,
                     ),
                     children: [
                       GridViewCard(
@@ -69,7 +73,7 @@ class HeartBeatView extends StatelessWidget {
                           iconData: Icons.eco_outlined,
                           title: 'Enviroment',
                           subtitle:
-                              'AQI: ${countryDataModel.environment.aqi[0]}',
+                              'AQI: ${countryDataModel.environment.aqi[0]}, ${countryDataModel.environment.temp[0]}°C',
                           cardColor: AppColors.lightGreen,
                         ),
                       ),
@@ -78,7 +82,7 @@ class HeartBeatView extends StatelessWidget {
                           iconData: FontAwesomeIcons.brain,
                           title: 'Social Vibe',
                           subtitle:
-                              'Social Vibe: ${countryDataModel.wellbeing.socialVibe}',
+                              'connectivityScore: ${countryDataModel.wellbeing.connectivityScore}',
                           cardColor: AppColors.orange,
                         ),
                       ),
@@ -87,7 +91,7 @@ class HeartBeatView extends StatelessWidget {
                           iconData: Icons.self_improvement,
                           title: 'Well-being',
                           subtitle:
-                              'mood: ${countryDataModel.wellbeing.moodScore}',
+                              'mood: ${countryDataModel.wellbeing.moodScore},${countryDataModel.wellbeing.socialVibe}',
                           cardColor: AppColors.orange,
                         ),
                       ),

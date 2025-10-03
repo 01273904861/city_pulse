@@ -1,5 +1,6 @@
 import 'package:city_pulse/core/routing/routes.dart';
 import 'package:city_pulse/core/widgets/custom_elevated_button.dart';
+import 'package:city_pulse/features/on%20boarding/widgets/understand_colors.dart';
 import 'package:city_pulse/features/on%20boarding/widgets/welocome_widget.dart';
 import 'package:city_pulse/features/on%20boarding/widgets/what_we_track_widget.dart';
 import 'package:flutter/material.dart';
@@ -24,12 +25,14 @@ class _OnBoardingViewState extends State<OnBoardingView> {
             Expanded(
               child: PageView.builder(
                 controller: pageController,
-                itemCount: 2,
+                itemCount: 3,
                 itemBuilder:
                     (context, index) =>
                         index == 0
                             ? const WelcomeWidget()
-                            : const WhatWeTrackWidget(),
+                            : index == 1
+                            ? WhatWeTrackWidget()
+                            : const UnderstandColorsScreen(),
                 onPageChanged: (index) {
                   currentIndex = index;
                   setState(() {});
@@ -37,9 +40,9 @@ class _OnBoardingViewState extends State<OnBoardingView> {
               ),
             ),
             CustomElevatedButton(
-              title: "Next",
+              title:  currentIndex == 2 ? "Get Started" : "Next",
               onPressed: () {
-                if (currentIndex <= 0) {
+                if (currentIndex == 0 || currentIndex == 1) {
                   setState(() {
                     currentIndex++;
                     pageController.nextPage(

@@ -18,14 +18,20 @@ class EnviromentalHealth extends StatelessWidget {
 
     return Scaffold(
       backgroundColor: const Color(0xFF1C1E26), // خلفية غامقة
-      appBar: AppBar(
-        backgroundColor: Colors.transparent,
+          appBar: AppBar(
         elevation: 0,
+        automaticallyImplyLeading: false,
+        backgroundColor: AppColors.mainColor,
         title: Text(
-          "${countryDataModel!.city} - Environmental Health",
-          style: const TextStyle(color: Colors.white),
+          "${countryDataModel!.city}'s Enviromental Health",
+          style: TextStyle(
+            fontSize: 18,
+            fontWeight: FontWeight.bold,
+            color: Colors.white,
+          ),
         ),
-        iconTheme: const IconThemeData(color: Colors.white),
+
+     
       ),
       body: Padding(
         padding: const EdgeInsets.all(16),

@@ -1,3 +1,4 @@
+import 'package:city_pulse/core/consts/app_colors.dart';
 import 'package:city_pulse/core/consts/app_strings.dart';
 import 'package:city_pulse/core/routing/routes.dart';
 import 'package:city_pulse/features/maps/data/map%20services/get_countries.dart';
@@ -38,14 +39,23 @@ class _MapPageState extends State<MapPage> {
     );
     setState(() {
       currentLocation = LatLng(position.latitude, position.longitude);
-      print("************************* $currentLocation");
     });
   }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("World Cities Map")),
+      appBar: AppBar( elevation: 0,
+        automaticallyImplyLeading: false,
+        backgroundColor: AppColors.mainColor,
+        title: Text(
+          "world's cities",
+          style: TextStyle(
+            fontSize: 18,
+            fontWeight: FontWeight.bold,
+            color: Colors.black,
+          ),
+        ),),
       body: Stack(
         children: [
           FlutterMap(

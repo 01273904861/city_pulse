@@ -12,27 +12,37 @@ class GridViewCard extends StatelessWidget {
         side: BorderSide(color: Colors.grey, width: 1),
         borderRadius: BorderRadius.circular(12),
       ),
-      child: Row(
-        crossAxisAlignment: CrossAxisAlignment.center,
-        mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-        children: [
-          Icon(gridviewCardModel.iconData, size: 14),
-          Column(
-            mainAxisAlignment: MainAxisAlignment.center,
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              Text(
-                gridviewCardModel.title,
-                style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
-              ),
-              Text(
-                gridviewCardModel.subtitle,
-                style: TextStyle(fontSize: 12),
-                overflow: TextOverflow.ellipsis,
-              ),
-            ],
-          ),
-        ],
+      child: Padding(
+        padding: const EdgeInsets.symmetric(horizontal: 8),
+        child: Row(
+          crossAxisAlignment: CrossAxisAlignment.center,
+          mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+          children: [
+            Icon(gridviewCardModel.iconData, size: 22),
+            Column(
+              mainAxisAlignment: MainAxisAlignment.center,
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text(
+                  gridviewCardModel.title,
+                  maxLines: 1,
+                  style: TextStyle(
+                    
+                    fontSize: 16,
+                    fontWeight: FontWeight.bold,
+                    overflow: TextOverflow.clip,
+                  ),
+                ),
+                Text(
+                  maxLines: 1,
+                  gridviewCardModel.subtitle,
+                  style: TextStyle(fontSize: 11),
+                  overflow: TextOverflow.clip,
+                ),
+              ],
+            ),
+          ],
+        ),
       ),
     );
   }
