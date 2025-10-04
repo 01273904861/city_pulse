@@ -12,8 +12,7 @@ class UnderstandColorsScreen extends StatelessWidget {
     Color titleColor,
   ) {
     return Container(
-      margin: const EdgeInsets.symmetric(vertical: 2),
-      padding: const EdgeInsets.all(16),
+      margin: const EdgeInsets.symmetric(vertical: 16),
       decoration: BoxDecoration(
         borderRadius: BorderRadius.circular(16),
         // boxShadow: [

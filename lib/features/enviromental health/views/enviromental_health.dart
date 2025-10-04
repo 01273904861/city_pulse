@@ -160,12 +160,7 @@ class EnviromentalHealth extends StatelessWidget {
                     "",
                     Colors.orangeAccent,
                   ),
-                  _buildCircleIndicator(
-                    "Noise",
-                 countryDataModel!.environment.noiseLevel.toDouble(),
-                    "Calm",
-                    Colors.blueAccent,
-                  ),
+            
                 ],
               ),
 

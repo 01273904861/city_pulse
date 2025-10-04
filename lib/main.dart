@@ -23,7 +23,7 @@ class CityPulse extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
       onGenerateRoute: AppRouter.onGenerateRoute,
-      initialRoute: Routes.onBoarding,
+      initialRoute: Routes.home,
     );
   }
 }

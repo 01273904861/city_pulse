@@ -5,4 +5,5 @@ class Routes {
   static const String enviromentalHealth = '/enviromental-health';
   static const String onBoarding = '/on-boarding';
   static const String locationAccessScreen = '/location-access-screen';
+  static const String game = '/geame-screen';
 }

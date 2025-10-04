@@ -18,7 +18,7 @@ class GridViewCard extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.center,
           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
           children: [
-            Icon(gridviewCardModel.iconData, size: 22),
+            Icon(gridviewCardModel.iconData, size: 20),
             Column(
               mainAxisAlignment: MainAxisAlignment.center,
               crossAxisAlignment: CrossAxisAlignment.start,
@@ -36,7 +36,7 @@ class GridViewCard extends StatelessWidget {
                 Text(
                   maxLines: 1,
                   gridviewCardModel.subtitle,
-                  style: TextStyle(fontSize: 11),
+                  style: TextStyle(fontSize: 10),
                   overflow: TextOverflow.clip,
                 ),
               ],

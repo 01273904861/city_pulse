@@ -1,6 +1,7 @@
 import 'package:city_pulse/core/routing/routes.dart';
 import 'package:city_pulse/features/enviromental%20health/views/enviromental_health.dart';
 import 'package:city_pulse/features/heart%20beat/views/heart_beat_view.dart';
+import 'package:city_pulse/features/home%20page/views/open_link_screen.dart';
 import 'package:city_pulse/features/home%20page/views/home_page.dart';
 import 'package:city_pulse/features/maps/data/models/country_data_model.dart';
 import 'package:city_pulse/features/maps/views/location_access_screen.dart';
@@ -37,6 +38,10 @@ class AppRouter {
               (_) => EnviromentalHealth(
                 countryDataModel: settings.arguments as CountryDataModel,
               ),
+        );
+      case Routes.game:
+        return MaterialPageRoute(
+          builder: (_) => OpenLink(urlTitle: settings.arguments as URLTitle),
         );
       default:
         return null;

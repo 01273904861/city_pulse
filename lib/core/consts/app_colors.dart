@@ -15,6 +15,7 @@ abstract class AppColors {
   static const Color black = Colors.black;
 
   static const Color maintGreen = Color(0xff5BD9BC);
+  static const Color purple = Colors.purple;
 
   static const Color lightBlack = Color.fromARGB(255, 42, 42, 51);
 }
